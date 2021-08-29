@@ -38,20 +38,22 @@ Only reverse them to:
 Pin 1 | pin 2 | pin 3 | pin 4| pin 5
 ------------ | ------------- | ------------- | ------------- | -------------
 blue | red | yellow | black | white
+
+
 ![BLT](https://www.makenprint.uk/wp-content/uploads/2021/04/bigtreetech_btt_e3_rrf_mainboard-BLTouch_alternate_colour_scheme.jpg.webp)
 
 
 So i'll try to get everything i can test here which the list right now is:
 
-- [x] E3 V2 DWIN (factory display)
-- [x] E3 V2 DWIN BLTOUCH (factory display)
+- [] E3 V2 DWIN (factory display)
+- [] E3 V2 DWIN BLTOUCH (factory display)
 - [x] E3 V2 BTT TFT35 E3 V3.0
 - [x] E3 V2 BTT TFT35 E3 V3.0 BLTOUCH
-- [x] E3  
-- [x] E3 BLTOUCH 
-- [x] E3 TFT35 E3 V3.0
-- [x] E3 TFT35 E3 V3.0 BLTOUCH
-- [x] E3 PRO  
-- [x] E3 PRO BLTOUCH 
-- [x] E3 PRO TFT35 E3 V3.0
-- [x] E3 PRO TFT35 E3 V3.0 BLTOUCH
+- [] E3  
+- [] E3 BLTOUCH 
+- [] E3 TFT35 E3 V3.0
+- [] E3 TFT35 E3 V3.0 BLTOUCH
+- [] E3 PRO  
+- [] E3 PRO BLTOUCH 
+- [] E3 PRO TFT35 E3 V3.0
+- [] E3 PRO TFT35 E3 V3.0 BLTOUCH
