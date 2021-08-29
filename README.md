@@ -40,7 +40,7 @@ Pin 1 | pin 2 | pin 3 | pin 4| pin 5
 blue | red | yellow | black | white
 
 
-![BLT](https://www.makenprint.uk/wp-content/uploads/2021/04/bigtreetech_btt_e3_rrf_mainboard-BLTouch_alternate_colour_scheme.jpg.webp)
+![BLT](https://www.makenprint.uk/wp-content/uploads/2021/04/bigtreetech_btt_e3_rrf_mainboard-BLTouch_alternate_colour_scheme.jpg)
 
 
 So i'll try to get everything i can test here which the list right now is:
