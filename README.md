@@ -45,15 +45,15 @@ blue | red | yellow | black | white
 
 So i'll try to get everything i can test here which the list right now is:
 
-- [] E3 V2 DWIN (factory display)
-- [] E3 V2 DWIN BLTOUCH (factory display)
+- [ ] E3 V2 DWIN (factory display)
+- [ ] E3 V2 DWIN BLTOUCH (factory display)
 - [x] E3 V2 BTT TFT35 E3 V3.0
 - [x] E3 V2 BTT TFT35 E3 V3.0 BLTOUCH
-- [] E3  
-- [] E3 BLTOUCH 
-- [] E3 TFT35 E3 V3.0
-- [] E3 TFT35 E3 V3.0 BLTOUCH
-- [] E3 PRO  
-- [] E3 PRO BLTOUCH 
-- [] E3 PRO TFT35 E3 V3.0
-- [] E3 PRO TFT35 E3 V3.0 BLTOUCH
+- [ ] E3  
+- [ ] E3 BLTOUCH 
+- [ ] E3 TFT35 E3 V3.0
+- [ ] E3 TFT35 E3 V3.0 BLTOUCH
+- [ ] E3 PRO  
+- [ ] E3 PRO BLTOUCH 
+- [ ] E3 PRO TFT35 E3 V3.0
+- [ ] E3 PRO TFT35 E3 V3.0 BLTOUCH
