@@ -26,6 +26,11 @@ So you have to conect those wires to the pins marked as RX1 and TX1 just careful
 
 >__RX1 goes with TX__.
 
+## BLTOUCH CONFIG
+__
+
+I added my probe offset congif, which are for the Hero Me 5 on the ender 3 V2 with a direct drive adapter, change them as you need.
+
 
 So i'll try to get everything i can test here which the list right now is:
 
