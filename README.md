@@ -26,22 +26,6 @@ So you have to conect those wires to the pins marked as RX1 and TX1 just careful
 
 >__RX1 goes with TX__.
 
-## CR-Touch and ANTCLABS need rewire too
-So just change the pin order vise versa original wire comes with 
-
-Pin 1 | pin 2 | pin 3 | pin 4| pin 5
------------- | ------------- | ------------- | ------------- | -------------
-White | black | yellow | red | blue
-
-Only reverse them to:
-
-Pin 1 | pin 2 | pin 3 | pin 4| pin 5
------------- | ------------- | ------------- | ------------- | -------------
-blue | red | yellow | black | white
-
-
-![BLT](https://www.makenprint.uk/wp-content/uploads/2021/04/bigtreetech_btt_e3_rrf_mainboard-BLTouch_alternate_colour_scheme.jpg)
-
 
 So i'll try to get everything i can test here which the list right now is:
 
