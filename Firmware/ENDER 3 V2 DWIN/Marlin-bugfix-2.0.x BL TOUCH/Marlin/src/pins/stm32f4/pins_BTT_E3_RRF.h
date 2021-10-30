@@ -182,7 +182,7 @@
 #endif
 
 #if ENABLED(DWIN_CREALITY_LCD)
-  // #error "DWIN_CREALITY_LCD requires a custom cable see table below. Comment out this line to continue."
+  #error "DWIN_CREALITY_LCD requires a custom cable see table below. Comment out this line to continue."
 
  /**
   *          Ender 3 V2 display                             BTT E3 RRF                      Ender 3 V2 display --> BTT E3 RRF
